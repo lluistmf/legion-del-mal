@@ -3,8 +3,4 @@ Un repositorio para conquistar el mundo
 
 Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
-
-# Fernando
-
-
-## Curso de Fernando en Udemy
+# Y aquí anoto algo by Lluís Llavina
